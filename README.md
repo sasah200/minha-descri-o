@@ -1,19 +1,26 @@
 ## HI THERE SABRINA🖤
 
- estou aprendendo alura.
+ Estou aprendendo alura.
 
- moro em, Macaubal, do interior SP
+ Moro em, Macaubal, do interior SP
 
- minha professosa:Aline 
+ Minha professosa:Aline 
 
- sou estudante da escola: E.E Porfirio Pimentel.
+ Sou estudante da escola: E.E Porfirio Pimentel.
 
- estou no ensino médio
+ Estou no ensino médio
 
- uso este espaço para, compartilhar os meus projetos,e interagir com  outas pessos que gostam de   programação.
+ Uso este espaço para, compartilhar os meus projetos,e interagir com  outas pessos que gostam de   programação.
 
- pode entrar em contato comigo
+ Pode entrar em contato comigo
 
  @sasaahh_01
 
- 
+  Já desenvolvi varias progamaçõe: vhttps://cursos.alura.com.br/course/introducao-computacao-ambiente-ferramentas-programação
+
+  https://cursos.alura.com.br/course/scratch-criando-jogo-cartas-listas-padroes
+
+  https://cursos.alura.com.br/course/projetos-artisticos-javascript
+
+  https://cursos.alura.com.br/course/logica-programacao-comece-jogo-pong-javascript 
+  
